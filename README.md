@@ -5,5 +5,4 @@
 
 
 ### 架构设计
-
-<img>(https://github.com/dlwlrmar123/juso-backend/blob/master/jusou.png)
+![img](https://github.com/dlwlrmar123/juso-backend/blob/master/jusou.png)
